@@ -142,7 +142,7 @@ Os backups ficam organizados por subpastas, uma para cada diretório monitorado,
   └── backup_log.txt
 ```
 # 📝 Observações
-Todos os backups possuem o prefixo HUB_ seguido do timestamp no formato YYYYMMDD_HHMMSS.
+Todos os backups possuem o prefixo BCK_ seguido do timestamp no formato YYYYMMDD_HHMMSS.
 
 O log completo de operações está disponível em:
 /brln_backup/backup_log.txt
