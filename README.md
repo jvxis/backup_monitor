@@ -135,10 +135,10 @@ Os backups ficam organizados por subpastas, uma para cada diretório monitorado,
 ```
 /brln_backup/
   ├── home_admin_lnbits_data/
-  │     └── wallets/
-  │          └── HUB_database.sqlite3_20250417_120505
+  │     └── BCK_database.sqlite3_20250417_120505
+  │       
   ├── home_admin_node-check/
-  │     └── HUB_keysend_rewards.db_20250417_120507
+  │     └── BCK_keysend_rewards.db_20250417_120507
   └── backup_log.txt
 ```
 # 📝 Observações
